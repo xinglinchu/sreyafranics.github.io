@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Anirban Laha</title>
+    <link>https://anirbanlaha.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Anirban Laha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Nov 2018 22:51:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://anirbanlaha.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Controllable Sparse Alternatives to Softmax</title>
+      <link>https://anirbanlaha.github.io/publication/nips-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 22:51:04 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/nips-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-long/</link>
+      <pubDate>Mon, 04 Jun 2018 23:09:33 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-short/</link>
+      <pubDate>Sun, 03 Jun 2018 23:09:44 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity driven Attention Model for Query-based Abstractive Summarization</title>
+      <link>https://anirbanlaha.github.io/publication/acl-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 23:22:09 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/acl-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Learning of Correlated Sequence Labelling Tasks Using Bidirectional Recurrent Neural Networks</title>
+      <link>https://anirbanlaha.github.io/publication/interspeech-2017/</link>
+      <pubDate>Sun, 20 Aug 2017 23:22:16 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/interspeech-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Evaluation of various Deep Learning Architectures for Bi-Sequence Classification Tasks</title>
+      <link>https://anirbanlaha.github.io/publication/coling-2016/</link>
+      <pubDate>Tue, 06 Dec 2016 23:22:00 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/coling-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
